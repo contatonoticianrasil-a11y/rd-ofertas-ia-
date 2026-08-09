@@ -1,0 +1,13 @@
+{
+  "name": "rd-ofertas-bot",
+  "type": "module",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.5",
+    "qrcode-terminal": "^0.12.0",
+    "node-cron": "^3.0.3",
+    "axios": "^1.7.2"
+  }
+}
